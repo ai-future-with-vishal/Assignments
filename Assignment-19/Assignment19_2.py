@@ -13,7 +13,7 @@ def main():
 
     Result = Multiplication(Value1, Value2)
 
-    print(Result)
+    print("Multiplication of number : ",Result)
 
 if __name__ == "__main__":
     main()

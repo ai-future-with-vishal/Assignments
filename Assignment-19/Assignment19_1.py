@@ -10,7 +10,7 @@ def main():
 
     Result = PowerOfTwo(No)
 
-    print(Result)
+    print("Power of Number is : ",Result)
 
 if __name__ == "__main__":
     main()
